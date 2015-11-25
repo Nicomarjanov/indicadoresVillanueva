@@ -3,5 +3,5 @@
 Proyecto: Indicadores
 Empresa: Villanueva
 Desarrolladores
-Nico
+Nico Marjanov
 Jota

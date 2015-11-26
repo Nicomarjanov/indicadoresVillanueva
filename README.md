@@ -1,5 +1,3 @@
-# indicadoresVillanueva
-
 Indicadores Villanueva
 ======================
 

@@ -1,7 +1,14 @@
 # indicadoresVillanueva
 
-Proyecto: Indicadores
-Empresa: Villanueva
+Indicadores Villanueva
+======================
+
+Aplicacion de Indicadores
+
+Este fichero se usa de ejemplo dentro del blog de aprendegit.com para crear un primer repositorio.
+
 Desarrolladores
-Nico Marjanov
-Jota
+--------------------
+
++ Nicolas Marjanov
++ Juan Francisco Perez: @yojota
